@@ -626,3 +626,11 @@
 [05:45:31] [Server thread/INFO]: No entity was found
 [05:45:32] [Server thread/INFO]: No entity was found
 [05:45:40] [Server thread/INFO]: Killed 3 entities
+[05:47:38] [Server thread/INFO]: IpTul has made the advancement [Monster Hunter]
+[05:56:28] [Server thread/INFO]: Killed 29 entities
+[05:56:36] [Server thread/INFO]: Killed Enderman
+[05:57:44] [Server thread/INFO]: Integer must not be more than 1000000, found 9999999
+[05:57:44] [Server thread/INFO]: ...her clear 9999999<--[HERE]
+[05:57:56] [Server thread/INFO]: Set the weather to clear
+[05:58:51] [Server thread/INFO]: Set the time to 1000
+[05:59:42] [Server thread/INFO]: Killed 24 entities
