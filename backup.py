@@ -13,9 +13,9 @@ def getCurrentTime():
 
 def backup():
 	os.system("git add .")
-	os.system("git commit -a -m '%s'" % (getCurrentTime()))
+	os.system('git commit -a -m "%s"' % (getCurrentTime()))
 	os.system("git push -u origin master")
 
 while (True):
 	backup()
-	time.sleep(10)
+	time.sleep(1200)
