@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-10-22 11:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-10-22 10:34:43 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-10-22 06:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-10-22 11:19:25 +0000"
     },
     "done": true
   },
@@ -332,7 +344,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-10-22 06:05:07 +0000",
-      "apple": "2020-10-22 02:13:46 +0000"
+      "apple": "2020-10-22 02:13:46 +0000",
+      "cooked_chicken": "2020-10-22 11:09:44 +0000"
     },
     "done": false
   },
@@ -507,6 +520,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2020-10-22 06:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-10-22 11:19:40 +0000"
     },
     "done": true
   },
