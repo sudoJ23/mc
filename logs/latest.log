@@ -652,3 +652,19 @@
 [06:42:29] [Server thread/INFO]: IpTul joined the game
 [06:45:37] [Server thread/INFO]: IpTul lost connection: Disconnected
 [06:45:37] [Server thread/INFO]: IpTul left the game
+[06:47:17] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53036] logged in with entity id 18167 at (-132.56181124911734, 66.0, -264.69999998807907)
+[06:47:17] [Server thread/INFO]: IpTul joined the game
+[06:47:32] [Server thread/INFO]: IpTul lost connection: Timed out
+[06:47:32] [Server thread/INFO]: IpTul left the game
+[06:47:32] [Server thread/WARN]: handleDisconnection() called twice
+[06:50:28] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53039] logged in with entity id 18204 at (-132.56181124911734, 66.0, -264.69999998807907)
+[06:50:28] [Server thread/INFO]: IpTul joined the game
+[06:51:00] [Server thread/INFO]: <IpTul> a
+[06:51:39] [Server thread/INFO]: IpTul lost connection: Disconnected
+[06:51:39] [Server thread/INFO]: IpTul left the game
+[06:53:29] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53044] logged in with entity id 18307 at (-132.58629243044803, 66.0, -264.33132247985696)
+[06:53:29] [Server thread/INFO]: IpTul joined the game
+[06:53:44] [Server thread/INFO]: IpTul lost connection: Timed out
+[06:53:44] [Server thread/INFO]: IpTul left the game
+[06:53:51] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53046] logged in with entity id 18328 at (-132.58629243044803, 66.0, -264.33132247985696)
+[06:53:51] [Server thread/INFO]: IpTul joined the game
