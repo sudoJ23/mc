@@ -18,4 +18,4 @@ def backup():
 
 while (True):
 	backup()
-	time.sleep(12)
+	time.sleep(1200)
