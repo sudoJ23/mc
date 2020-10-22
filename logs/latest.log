@@ -439,3 +439,48 @@
 [02:03:13] [Server thread/INFO]: <IpTul> dah ku ss
 [02:03:18] [Server thread/INFO]: AgilW lost connection: Disconnected
 [02:03:18] [Server thread/INFO]: AgilW left the game
+[02:06:04] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:52202] logged in with entity id 4357 at (-78.1388334572769, 63.0, -264.33262181796607)
+[02:06:04] [Server thread/INFO]: Jeremi joined the game
+[02:12:21] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:52207] logged in with entity id 5329 at (-93.51271242379521, 44.0, -263.0287827325879)
+[02:12:21] [Server thread/INFO]: AgilW joined the game
+[02:12:21] [Server thread/WARN]: Fetching packet for removed entity atx['Iron Ore'/5319, l='world', x=-117.98, y=34.00, z=-255.88]
+[02:12:26] [Server thread/INFO]: AgilW lost connection: Disconnected
+[02:12:26] [Server thread/INFO]: AgilW left the game
+[02:12:40] [Server thread/INFO]: <Jeremi> goanya lebar
+[02:14:47] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:14:47] [Server thread/INFO]: IpTul left the game
+[02:15:38] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52211] logged in with entity id 5896 at (-118.30529876364898, 67.0, -257.3963905393035)
+[02:15:38] [Server thread/INFO]: IpTul joined the game
+[02:15:42] [Server thread/INFO]: <Jeremi> dapat gold
+[02:15:53] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:15:53] [Server thread/INFO]: IpTul left the game
+[02:15:59] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:52214] logged in with entity id 5986 at (-93.51271242379521, 44.0, -263.0287827325879)
+[02:15:59] [Server thread/INFO]: AgilW joined the game
+[02:16:04] [Server thread/INFO]: AgilW was shot by Skeleton
+[02:16:08] [Server thread/INFO]: AgilW lost connection: Disconnected
+[02:16:08] [Server thread/INFO]: AgilW left the game
+[02:16:59] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52217] logged in with entity id 6119 at (-118.30529876364898, 67.0, -257.3963905393035)
+[02:16:59] [Server thread/INFO]: IpTul joined the game
+[02:17:14] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:17:14] [Server thread/INFO]: IpTul left the game
+[02:18:31] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:52220] logged in with entity id 6312 at (-93.51271242379521, 44.0, -263.0287827325879)
+[02:18:31] [Server thread/INFO]: AgilW joined the game
+[02:18:34] [Server thread/INFO]: AgilW lost connection: Disconnected
+[02:18:34] [Server thread/INFO]: AgilW left the game
+[02:18:37] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52224] logged in with entity id 6322 at (-118.30529876364898, 67.0, -257.3963905393035)
+[02:18:37] [Server thread/INFO]: IpTul joined the game
+[02:18:53] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:18:53] [Server thread/INFO]: IpTul left the game
+[02:21:20] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52236] logged in with entity id 6927 at (-118.30529876364898, 67.0, -257.3963905393035)
+[02:21:20] [Server thread/INFO]: IpTul joined the game
+[02:21:30] [Server thread/INFO]: IpTul lost connection: Disconnected
+[02:21:30] [Server thread/INFO]: IpTul left the game
+[02:23:57] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52248] logged in with entity id 7445 at (-118.30529876364898, 67.0, -257.3963905393035)
+[02:23:57] [Server thread/INFO]: IpTul joined the game
+[02:24:10] [Server thread/INFO]: IpTul lost connection: Disconnected
+[02:24:10] [Server thread/INFO]: IpTul left the game
+[02:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[02:25:22] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52251] logged in with entity id 7595 at (-118.30529876364898, 67.0, -257.3963905393035)
+[02:25:22] [Server thread/INFO]: IpTul joined the game
+[02:25:37] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:25:37] [Server thread/INFO]: IpTul left the game
