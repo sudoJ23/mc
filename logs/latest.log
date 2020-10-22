@@ -741,3 +741,6 @@
 [11:36:02] [Server thread/INFO]: <IpTul> a
 [11:41:28] [Server thread/INFO]: IpTul has made the advancement [Sweet Dreams]
 [11:44:01] [Server thread/INFO]: IpTul has made the advancement [Not Today, Thank You]
+[11:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[11:56:00] [Server thread/INFO]: IpTul lost connection: Disconnected
+[11:56:00] [Server thread/INFO]: IpTul left the game
