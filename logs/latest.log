@@ -321,3 +321,121 @@
 [01:45:09] [Server thread/INFO]: IpTul joined the game
 [01:45:24] [Server thread/INFO]: IpTul lost connection: Timed out
 [01:45:24] [Server thread/INFO]: IpTul left the game
+[01:45:28] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51749] logged in with entity id 2436 at (-80.84346439765298, 63.0, -256.42471823005013)
+[01:45:28] [Server thread/INFO]: IpTul joined the game
+[01:45:40] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:51750] logged in with entity id 2450 at (-100.69999998807907, 63.0, -282.54297914924103)
+[01:45:40] [Server thread/INFO]: AgilW joined the game
+[01:45:44] [Server thread/INFO]: IpTul lost connection: Timed out
+[01:45:44] [Server thread/INFO]: IpTul left the game
+[01:45:48] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51751] logged in with entity id 2494 at (-80.84346439765298, 63.0, -256.42471823005013)
+[01:45:48] [Server thread/INFO]: IpTul joined the game
+[01:45:55] [Server thread/INFO]: AgilW lost connection: Timed out
+[01:45:55] [Server thread/INFO]: AgilW left the game
+[01:45:58] [Server thread/INFO]: IpTul lost connection: Disconnected
+[01:45:58] [Server thread/INFO]: IpTul left the game
+[01:45:58] [Server thread/WARN]: handleDisconnection() called twice
+[01:45:58] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51752] logged in with entity id 2503 at (-80.84346439765298, 63.0, -256.42471823005013)
+[01:45:58] [Server thread/INFO]: IpTul joined the game
+[01:46:06] [Server thread/INFO]: Jeremi was shot by Skeleton
+[01:46:13] [Server thread/INFO]: IpTul lost connection: Timed out
+[01:46:13] [Server thread/INFO]: IpTul left the game
+[01:46:17] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51754] logged in with entity id 2535 at (-80.84346439765298, 63.0, -256.42471823005013)
+[01:46:17] [Server thread/INFO]: IpTul joined the game
+[01:46:48] [Server thread/INFO]: Jeremi has made the advancement [Acquire Hardware]
+[01:47:11] [Server thread/INFO]: Jeremi has made the advancement [Isn't It Iron Pick]
+[01:47:16] [Server thread/INFO]: IpTul has made the advancement [Getting an Upgrade]
+[01:47:23] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:51757] logged in with entity id 2640 at (-100.69999998807907, 63.0, -282.54297914924103)
+[01:47:23] [Server thread/INFO]: AgilW joined the game
+[01:47:38] [Server thread/INFO]: AgilW lost connection: Timed out
+[01:47:38] [Server thread/INFO]: AgilW left the game
+[01:47:38] [Server thread/WARN]: handleDisconnection() called twice
+[01:47:55] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:51759] logged in with entity id 2740 at (-100.69999998807907, 63.0, -282.54297914924103)
+[01:47:55] [Server thread/INFO]: AgilW joined the game
+[01:48:04] [Server thread/INFO]: <Jeremi> mineshaft
+[01:48:10] [Server thread/INFO]: AgilW lost connection: Timed out
+[01:48:10] [Server thread/INFO]: AgilW left the game
+[01:49:16] [Server thread/INFO]: <Jeremi> mana km
+[01:49:33] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:51762] logged in with entity id 2897 at (-100.69999998807907, 63.0, -282.54297914924103)
+[01:49:33] [Server thread/INFO]: AgilW joined the game
+[01:49:41] [Server thread/INFO]: <IpTul> test
+[01:50:24] [Server thread/INFO]: IpTul has made the advancement [Stone Age]
+[01:52:09] [Server thread/INFO]: AgilW lost connection: Disconnected
+[01:52:09] [Server thread/INFO]: AgilW left the game
+[01:52:49] [Server thread/INFO]: <Jeremi> kada
+[01:53:36] [Server thread/INFO]: Jeremi was slain by IpTul
+[01:53:56] [Server thread/INFO]: <IpTul> test
+[01:54:31] [Server thread/INFO]: IpTul lost connection: Disconnected
+[01:54:31] [Server thread/INFO]: IpTul left the game
+[01:55:49] [Server thread/INFO]: Jeremi lost connection: Timed out
+[01:55:49] [Server thread/INFO]: Jeremi left the game
+[01:56:15] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:51769] logged in with entity id 3563 at (-78.1388334572769, 63.0, -264.33262181796607)
+[01:56:16] [Server thread/INFO]: Jeremi joined the game
+[01:56:31] [Server thread/INFO]: Jeremi lost connection: Timed out
+[01:56:31] [Server thread/INFO]: Jeremi left the game
+[01:57:07] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:51770] logged in with entity id 3583 at (-78.1388334572769, 63.0, -264.33262181796607)
+[01:57:07] [Server thread/INFO]: Jeremi joined the game
+[01:57:22] [Server thread/INFO]: Jeremi lost connection: Timed out
+[01:57:22] [Server thread/INFO]: Jeremi left the game
+[01:58:24] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:51771] logged in with entity id 3626 at (-78.1388334572769, 63.0, -264.33262181796607)
+[01:58:24] [Server thread/INFO]: Jeremi joined the game
+[01:58:39] [Server thread/INFO]: Jeremi lost connection: Timed out
+[01:58:39] [Server thread/INFO]: Jeremi left the game
+[01:59:01] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:51885] logged in with entity id 3652 at (-78.1388334572769, 63.0, -264.33262181796607)
+[01:59:01] [Server thread/INFO]: Jeremi joined the game
+[01:59:16] [Server thread/INFO]: Jeremi lost connection: Timed out
+[01:59:16] [Server thread/INFO]: Jeremi left the game
+[01:59:19] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51887] logged in with entity id 3672 at (-110.41645659333352, 56.0, -250.06282275883416)
+[01:59:19] [Server thread/INFO]: IpTul joined the game
+[01:59:27] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:51891] logged in with entity id 3706 at (-78.1388334572769, 63.0, -264.33262181796607)
+[01:59:27] [Server thread/INFO]: Jeremi joined the game
+[01:59:34] [Server thread/INFO]: IpTul lost connection: Timed out
+[01:59:34] [Server thread/INFO]: IpTul left the game
+[01:59:40] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51892] logged in with entity id 3728 at (-110.41645659333352, 56.0, -250.06282275883416)
+[01:59:40] [Server thread/INFO]: IpTul joined the game
+[01:59:42] [Server thread/INFO]: Jeremi lost connection: Timed out
+[01:59:42] [Server thread/INFO]: Jeremi left the game
+[01:59:49] [Server thread/INFO]: [Server] ntar reconnect
+[01:59:54] [Server thread/INFO]: [Server] gk bisa masuk :v
+[01:59:55] [Server thread/INFO]: IpTul lost connection: Timed out
+[01:59:55] [Server thread/INFO]: IpTul left the game
+[02:00:00] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51897] logged in with entity id 3733 at (-110.41645659333352, 56.0, -250.06282275883416)
+[02:00:00] [Server thread/INFO]: IpTul joined the game
+[02:00:15] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:00:15] [Server thread/INFO]: IpTul left the game
+[02:00:20] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:51916] logged in with entity id 3768 at (-110.41645659333352, 56.0, -250.06282275883416)
+[02:00:20] [Server thread/INFO]: IpTul joined the game
+[02:00:35] [Server thread/INFO]: IpTul lost connection: Timed out
+[02:00:36] [Server thread/INFO]: IpTul left the game
+[02:00:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[02:00:42] [Server thread/INFO]: AgilW[/0:0:0:0:0:0:0:1:52129] logged in with entity id 3786 at (-79.41572495457451, 63.0, -263.37166282658836)
+[02:00:42] [Server thread/INFO]: AgilW joined the game
+[02:00:42] [Server thread/INFO]: AgilW has made the advancement [Getting an Upgrade]
+[02:00:43] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:52150] logged in with entity id 3787 at (-110.41645659333352, 56.0, -250.06282275883416)
+[02:00:43] [Server thread/INFO]: IpTul joined the game
+[02:00:52] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:52164] logged in with entity id 3810 at (-78.1388334572769, 63.0, -264.33262181796607)
+[02:00:53] [Server thread/INFO]: Jeremi joined the game
+[02:01:00] [Server thread/WARN]: AgilW moved too quickly! -8.726500427571537,1.8232407249357578,4.786777441122922
+[02:01:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8757ms or 175 ticks behind
+[02:01:10] [Server thread/INFO]: Jeremi lost connection: Timed out
+[02:01:10] [Server thread/INFO]: Jeremi left the game
+[02:01:11] [Server thread/WARN]: handleDisconnection() called twice
+[02:01:11] [Server thread/WARN]: AgilW moved too quickly! 1.185593691270327,-3.0,-9.479123023684224
+[02:01:21] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:52187] logged in with entity id 3824 at (-78.1388334572769, 63.0, -264.33262181796607)
+[02:01:21] [Server thread/INFO]: Jeremi joined the game
+[02:01:36] [Server thread/INFO]: Jeremi lost connection: Timed out
+[02:01:36] [Server thread/INFO]: Jeremi left the game
+[02:01:46] [Server thread/INFO]: Jeremi[/0:0:0:0:0:0:0:1:52191] logged in with entity id 3915 at (-78.1388334572769, 63.0, -264.33262181796607)
+[02:01:46] [Server thread/INFO]: Jeremi joined the game
+[02:02:01] [Server thread/INFO]: Jeremi lost connection: Timed out
+[02:02:01] [Server thread/INFO]: Jeremi left the game
+[02:02:05] [Server thread/INFO]: [Server] harus kah restart minecraft?
+[02:02:11] [Server thread/INFO]: <IpTul> gosah
+[02:02:16] [Server thread/INFO]: <IpTul> sdh aku mskny lama
+[02:02:29] [Server thread/INFO]: [Server] restart minecraft ku maksudnya :v
+[02:02:38] [Server thread/INFO]: <IpTul> oh serahkam wkkw
+[02:02:49] [Server thread/INFO]: [Server] https://github.com/sudoj23/mc
+[02:02:52] [Server thread/INFO]: <IpTul> a
+[02:03:06] [Server thread/INFO]: [Server] backupnua disitu
+[02:03:13] [Server thread/INFO]: <IpTul> dah ku ss
+[02:03:18] [Server thread/INFO]: AgilW lost connection: Disconnected
+[02:03:18] [Server thread/INFO]: AgilW left the game
