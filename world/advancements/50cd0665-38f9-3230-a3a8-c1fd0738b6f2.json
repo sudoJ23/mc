@@ -646,6 +646,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-10-23 04:59:25 +0000",
       "minecraft:skeleton": "2020-10-22 10:49:01 +0000",
       "minecraft:spider": "2020-10-22 10:34:41 +0000",
       "minecraft:phantom": "2020-10-22 10:40:06 +0000",
