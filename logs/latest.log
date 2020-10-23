@@ -486,3 +486,55 @@ java.lang.NullPointerException: null
 [08:53:06] [Server thread/INFO]: <IpTul> jgn disana
 [08:53:07] [Server thread/INFO]: <IpTul> pndh
 [08:54:57] [Server thread/INFO]: <Hampone> kaga
+[08:55:01] [Server thread/INFO]: <Hampone> we mo jauh jauh
+[08:55:05] [Server thread/INFO]: <Hampone> kasih furniture atuh
+[08:55:07] [Server thread/INFO]: <Hampone> buat rumah
+[08:55:07] [Server thread/INFO]: <IpTul> sni aj ajg
+[08:55:14] [Server thread/INFO]: <Hampone> kaga
+[08:55:20] [Server thread/INFO]: <IpTul> kick
+[08:55:23] [Server thread/INFO]: <Hampone> maling
+[08:55:26] [Server thread/INFO]: <Hampone> wwwww
+[08:55:42] [Server thread/INFO]: <Hampone> mo 10k
+[08:55:45] [Server thread/INFO]: <Hampone> dari spawn
+[08:55:59] [Server thread/INFO]: <IpTul> ya serah lu lah
+[08:56:02] [Server thread/INFO]: <Hampone> wwww
+[08:56:09] [Server thread/INFO]: <Hampone> ni vanilla biasa?
+[08:56:15] [Server thread/WARN]: Hampone moved too quickly! -0.8637525893624343,2.0,9.846739832798079
+[08:56:18] [Server thread/WARN]: Hampone moved wrongly!
+[08:56:23] [Server thread/INFO]: <Hampone> ngeleg euy
+[08:56:37] [Server thread/INFO]: Hampone was blown up by Creeper
+[08:56:39] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at vd.b(SourceFile:208) ~[server.jar:?]
+	at uw.a(SourceFile:897) ~[server.jar:?]
+	at vi.a(SourceFile:475) ~[server.jar:?]
+	at wc.a(SourceFile:835) ~[server.jar:?]
+	at om.a(SourceFile:126) ~[server.jar:?]
+	at om$a.a(SourceFile:57) ~[server.jar:?]
+	at ke.a(SourceFile:21) ~[server.jar:?]
+	at rk.run(SourceFile:18) ~[server.jar:?]
+	at agq.h(SourceFile:144) [server.jar:?]
+	at agu.h(SourceFile:23) [server.jar:?]
+	at agq.q(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
+	at agq.bh(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[08:56:39] [Server thread/WARN]: Hampone moved wrongly!
+[08:56:45] [Server thread/INFO]: <IpTul> mampus
+[08:56:58] [Server thread/INFO]: <Hampone> sengaja
+[08:56:59] [Server thread/INFO]: <Hampone> food abis
+[08:58:09] [Server thread/INFO]: <IpTul> tidor cuk
+[08:59:34] [Server thread/INFO]: <Hampone> kaga ada bed
+[09:00:06] [Server thread/WARN]: IpTul moved too quickly! 5.706858357941854,0.0,-8.546808413631055
+[09:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
+[09:00:37] [Server thread/INFO]: Hampone was slain by Zombie
+[09:03:03] [Server thread/INFO]: <Hampone> .
+[09:03:07] [Server thread/INFO]: <IpTul> ha
+[09:03:18] [Server thread/INFO]: <Hampone> kaga bisa tidur euy
+[09:03:23] [Server thread/INFO]: <IpTul> udh mo pagi
+[09:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[09:06:45] [Server thread/INFO]: Hampone lost connection: Disconnected
+[09:06:45] [Server thread/INFO]: Hampone left the game
