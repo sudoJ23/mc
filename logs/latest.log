@@ -219,3 +219,89 @@
 [05:32:08] [Server thread/INFO]: agilaja joined the game
 [05:32:23] [Server thread/INFO]: agilaja lost connection: Timed out
 [05:32:23] [Server thread/INFO]: agilaja left the game
+[05:34:14] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57096] logged in with entity id 41589 at (120.96157410305415, 66.0, -298.69915697776526)
+[05:34:14] [Server thread/INFO]: agilaja joined the game
+[05:34:23] [Server thread/WARN]: IpTul moved too quickly! -6.207562794011949,-0.7967356006687112,-7.982718285416269
+[05:34:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[05:34:35] [Server thread/WARN]: agilaja moved wrongly!
+[05:34:39] [Server thread/WARN]: agilaja was kicked for floating too long!
+[05:34:39] [Server thread/INFO]: agilaja lost connection: Flying is not enabled on this server
+[05:34:39] [Server thread/INFO]: agilaja left the game
+[05:34:39] [Server thread/WARN]: handleDisconnection() called twice
+[05:34:46] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57097] logged in with entity id 41772 at (116.07008426179516, 65.6906999805212, -321.51929572780205)
+[05:34:46] [Server thread/INFO]: agilaja joined the game
+[05:34:52] [Server thread/WARN]: agilaja was kicked for floating too long!
+[05:34:52] [Server thread/INFO]: agilaja lost connection: Flying is not enabled on this server
+[05:34:52] [Server thread/INFO]: agilaja left the game
+[05:35:44] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57100] logged in with entity id 41918 at (116.07008426179516, 65.6906999805212, -321.51929572780205)
+[05:35:44] [Server thread/INFO]: agilaja joined the game
+[05:38:05] [Server thread/INFO]: agilaja drowned
+[05:38:14] [Server thread/INFO]: agilaja lost connection: Timed out
+[05:38:14] [Server thread/INFO]: agilaja left the game
+[05:38:35] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57104] logged in with entity id 42632 at (141.65577004611026, 59.69293390620282, -329.7207870464025)
+[05:38:35] [Server thread/INFO]: agilaja joined the game
+[05:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[05:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[05:45:32] [Server thread/INFO]: agilaja was blown up by Creeper
+[05:45:35] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at vd.b(SourceFile:208) ~[server.jar:?]
+	at uw.a(SourceFile:897) ~[server.jar:?]
+	at vi.a(SourceFile:475) ~[server.jar:?]
+	at wc.a(SourceFile:835) ~[server.jar:?]
+	at om.a(SourceFile:126) ~[server.jar:?]
+	at om$b.a(SourceFile:18) ~[server.jar:?]
+	at ke.a(SourceFile:21) ~[server.jar:?]
+	at rk.run(SourceFile:18) ~[server.jar:?]
+	at agq.h(SourceFile:144) [server.jar:?]
+	at agu.h(SourceFile:23) [server.jar:?]
+	at agq.q(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
+	at agq.bh(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[05:45:38] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at vd.b(SourceFile:208) ~[server.jar:?]
+	at uw.a(SourceFile:897) ~[server.jar:?]
+	at vi.a(SourceFile:475) ~[server.jar:?]
+	at wc.a(SourceFile:835) ~[server.jar:?]
+	at om.a(SourceFile:126) ~[server.jar:?]
+	at om$a.a(SourceFile:57) ~[server.jar:?]
+	at ke.a(SourceFile:21) ~[server.jar:?]
+	at rk.run(SourceFile:18) ~[server.jar:?]
+	at agq.h(SourceFile:144) [server.jar:?]
+	at agu.h(SourceFile:23) [server.jar:?]
+	at agq.q(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
+	at agq.bh(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[05:47:23] [Server thread/INFO]: <IpTul> a
+[05:47:30] [Server thread/INFO]: agilaja was blown up by Creeper
+[05:47:31] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at vd.b(SourceFile:208) ~[server.jar:?]
+	at uw.a(SourceFile:897) ~[server.jar:?]
+	at vi.a(SourceFile:475) ~[server.jar:?]
+	at wc.a(SourceFile:835) ~[server.jar:?]
+	at om.a(SourceFile:126) ~[server.jar:?]
+	at om$a.a(SourceFile:57) ~[server.jar:?]
+	at ke.a(SourceFile:21) ~[server.jar:?]
+	at rk.run(SourceFile:18) ~[server.jar:?]
+	at agq.h(SourceFile:144) [server.jar:?]
+	at agu.h(SourceFile:23) [server.jar:?]
+	at agq.q(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
+	at agq.bh(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[05:47:59] [Server thread/INFO]: agilaja has made the advancement [Sweet Dreams]
+[05:49:15] [Server thread/INFO]: <IpTul> a
+[05:49:51] [Server thread/INFO]: <IpTul> a

@@ -413,6 +413,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2020-10-22 11:33:17 +0000",
+      "minecraft:cow": "2020-10-23 05:37:20 +0000",
       "minecraft:chicken": "2020-10-23 05:13:10 +0000"
     },
     "done": false
