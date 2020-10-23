@@ -305,3 +305,38 @@ java.lang.NullPointerException: null
 [05:47:59] [Server thread/INFO]: agilaja has made the advancement [Sweet Dreams]
 [05:49:15] [Server thread/INFO]: <IpTul> a
 [05:49:51] [Server thread/INFO]: <IpTul> a
+[05:56:02] [Server thread/INFO]: IpTul lost connection: Timed out
+[05:56:02] [Server thread/INFO]: IpTul left the game
+[05:56:52] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57351] logged in with entity id 46392 at (-144.98541476458524, 69.0, -229.3628109625214)
+[05:56:52] [Server thread/INFO]: IpTul joined the game
+[05:57:07] [Server thread/INFO]: IpTul lost connection: Disconnected
+[05:57:07] [Server thread/INFO]: IpTul left the game
+[05:57:07] [Server thread/WARN]: handleDisconnection() called twice
+[05:57:26] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57463] logged in with entity id 46491 at (-144.98541476458524, 69.0, -229.3628109625214)
+[05:57:26] [Server thread/INFO]: IpTul joined the game
+[05:57:41] [Server thread/INFO]: IpTul lost connection: Timed out
+[05:57:41] [Server thread/INFO]: IpTul left the game
+[05:57:59] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57464] logged in with entity id 46543 at (-144.98541476458524, 69.0, -229.3628109625214)
+[05:57:59] [Server thread/INFO]: IpTul joined the game
+[05:58:14] [Server thread/INFO]: IpTul lost connection: Timed out
+[05:58:14] [Server thread/INFO]: IpTul left the game
+[05:58:19] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57465] logged in with entity id 46611 at (-144.98541476458524, 69.0, -229.3628109625214)
+[05:58:19] [Server thread/INFO]: IpTul joined the game
+[06:01:07] [Server thread/INFO]: agilaja lost connection: Timed out
+[06:01:07] [Server thread/INFO]: agilaja left the game
+[06:01:13] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57468] logged in with entity id 47044 at (-114.72411193036525, 74.0, -216.86586031095584)
+[06:01:13] [Server thread/INFO]: agilaja joined the game
+[06:01:29] [Server thread/INFO]: agilaja lost connection: Timed out
+[06:01:29] [Server thread/INFO]: agilaja left the game
+[06:02:07] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57470] logged in with entity id 47163 at (-114.72411193036525, 74.0, -216.86586031095584)
+[06:02:07] [Server thread/INFO]: agilaja joined the game
+[06:04:22] [Server thread/INFO]: agilaja lost connection: Timed out
+[06:04:22] [Server thread/INFO]: agilaja left the game
+[06:04:22] [Server thread/WARN]: handleDisconnection() called twice
+[06:04:28] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57473] logged in with entity id 47635 at (-113.62874279299697, 74.0, -227.9414732014064)
+[06:04:28] [Server thread/INFO]: agilaja joined the game
+[06:04:44] [Server thread/INFO]: agilaja lost connection: Timed out
+[06:04:44] [Server thread/INFO]: agilaja left the game
+[06:05:15] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57476] logged in with entity id 47763 at (-113.62874279299697, 74.0, -227.9414732014064)
+[06:05:15] [Server thread/INFO]: agilaja joined the game
+[06:10:18] [Server thread/WARN]: IpTul moved too quickly! 9.879973633018466,1.1767592750642422,-1.7101332875858475
