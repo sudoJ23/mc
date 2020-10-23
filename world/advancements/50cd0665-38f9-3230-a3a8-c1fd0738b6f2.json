@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-10-23 06:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2020-10-23 05:50:22 +0000"
@@ -496,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-10-23 06:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-10-22 06:08:05 +0000"
@@ -670,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-10-23 06:43:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2020-10-23 04:59:25 +0000",
@@ -695,6 +713,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2020-10-22 06:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-10-23 06:43:13 +0000"
     },
     "done": true
   },
@@ -797,6 +821,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2020-10-22 01:46:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-10-23 06:43:13 +0000"
     },
     "done": true
   },
@@ -1204,9 +1234,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2020-10-23 06:49:24 +0000",
       "minecraft:beach": "2020-10-22 02:10:53 +0000",
       "minecraft:dark_forest": "2020-10-22 01:46:43 +0000",
       "minecraft:river": "2020-10-22 01:44:34 +0000",
+      "minecraft:wooded_hills": "2020-10-23 06:49:09 +0000",
       "minecraft:plains": "2020-10-22 01:24:29 +0000"
     },
     "done": false
@@ -1334,6 +1366,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-10-22 01:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-10-23 06:43:18 +0000"
     },
     "done": true
   },
