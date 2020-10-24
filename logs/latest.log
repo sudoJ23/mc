@@ -111,3 +111,98 @@
 [01:17:09] [Server thread/INFO]: <IpTul> kok km dpt
 [01:17:23] [Server thread/INFO]: [Server] kan di server bisa nyari yg gituan :v
 [01:17:32] [Server thread/INFO]: <IpTul> ih bru tau aku
+[01:18:14] [Server thread/INFO]: [Server] oh beda tul
+[01:18:20] [Server thread/INFO]: [Server] itu bukan water temple :v
+[01:18:20] [Server thread/INFO]: <IpTul> apa
+[01:18:25] [Server thread/INFO]: The nearest Monument is at [-704, ~, -624] (719 blocks away)
+[01:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[01:18:25] [Server thread/INFO]: <IpTul> jdi ?
+[01:18:37] [Server thread/INFO]: [Server] The nearest Monument is at [-704, ~, -624] (719 blocks away)
+[01:18:40] [Server thread/INFO]: [Server] nah itu baru
+[01:19:09] [Server thread/INFO]: Could not find that structure nearby
+[01:19:46] [Server thread/INFO]: The nearest Mansion is at [-5952, ~, -5856] (8113 blocks away)
+[01:19:56] [Server thread/INFO]: [Server] The nearest Mansion is at [-5952, ~, -5856] (8113 blocks away)
+[01:20:05] [Server thread/INFO]: [Server] ini Tuhan sedang memberikan arah :v
+[01:20:07] [Server thread/INFO]: <IpTul> lah anjer 2 wkwk
+[01:20:19] [Server thread/INFO]: <IpTul> dah ku ss wkwk
+[01:20:24] [Server thread/INFO]: [Server] apanya 2 :v
+[01:20:33] [Server thread/INFO]: There are 1 of a max 20 players online: IpTul
+[01:20:40] [Server thread/INFO]: <IpTul> oh satunya mansion
+[01:20:50] [Server thread/INFO]: [Server] dahlah Tuhan cape ngasih arah :v
+[01:24:15] [Server thread/INFO]: Summoned new Lightning Bolt
+[01:24:26] [Server thread/INFO]: /advancement (grant|revoke)
+[01:24:26] [Server thread/INFO]: /ban <targets> [<reason>]
+[01:24:26] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[01:24:26] [Server thread/INFO]: /banlist [ips|players]
+[01:24:26] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[01:24:26] [Server thread/INFO]: /clear [<targets>]
+[01:24:26] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[01:24:26] [Server thread/INFO]: /data (get|merge|modify|remove)
+[01:24:26] [Server thread/INFO]: /datapack (disable|enable|list)
+[01:24:26] [Server thread/INFO]: /debug (report|start|stop)
+[01:24:26] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[01:24:26] [Server thread/INFO]: /deop <targets>
+[01:24:26] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[01:24:26] [Server thread/INFO]: /effect (clear|give)
+[01:24:26] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[01:24:26] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[01:24:26] [Server thread/INFO]: /experience (add|query|set)
+[01:24:26] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[01:24:26] [Server thread/INFO]: /forceload (add|query|remove)
+[01:24:26] [Server thread/INFO]: /function <name>
+[01:24:26] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[01:24:26] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[01:24:26] [Server thread/INFO]: /give <targets> <item> [<count>]
+[01:24:26] [Server thread/INFO]: /help [<command>]
+[01:24:26] [Server thread/INFO]: /kick <targets> [<reason>]
+[01:24:26] [Server thread/INFO]: /kill <targets>
+[01:24:26] [Server thread/INFO]: /list [uuids]
+[01:24:26] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[01:24:26] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[01:24:26] [Server thread/INFO]: /me <action>
+[01:24:26] [Server thread/INFO]: /msg <targets> <message>
+[01:24:26] [Server thread/INFO]: /op <targets>
+[01:24:26] [Server thread/INFO]: /pardon <targets>
+[01:24:26] [Server thread/INFO]: /pardon-ip <target>
+[01:24:26] [Server thread/INFO]: /particle <name> [<pos>]
+[01:24:26] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[01:24:26] [Server thread/INFO]: /recipe (give|take)
+[01:24:26] [Server thread/INFO]: /reload
+[01:24:26] [Server thread/INFO]: /replaceitem (block|entity)
+[01:24:26] [Server thread/INFO]: /save-all [flush]
+[01:24:26] [Server thread/INFO]: /save-off
+[01:24:26] [Server thread/INFO]: /save-on
+[01:24:26] [Server thread/INFO]: /say <message>
+[01:24:26] [Server thread/INFO]: /schedule function <function> <time>
+[01:24:26] [Server thread/INFO]: /scoreboard (objectives|players)
+[01:24:26] [Server thread/INFO]: /seed
+[01:24:26] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[01:24:26] [Server thread/INFO]: /setidletimeout <minutes>
+[01:24:26] [Server thread/INFO]: /setworldspawn [<pos>]
+[01:24:26] [Server thread/INFO]: /spawnpoint [<targets>]
+[01:24:26] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[01:24:26] [Server thread/INFO]: /stop
+[01:24:26] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[01:24:26] [Server thread/INFO]: /summon <entity> [<pos>]
+[01:24:26] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[01:24:26] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[01:24:26] [Server thread/INFO]: /teammsg <message>
+[01:24:26] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[01:24:26] [Server thread/INFO]: /tell -> msg
+[01:24:26] [Server thread/INFO]: /tellraw <targets> <message>
+[01:24:26] [Server thread/INFO]: /time (add|query|set)
+[01:24:26] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[01:24:26] [Server thread/INFO]: /tm -> teammsg
+[01:24:26] [Server thread/INFO]: /tp -> teleport
+[01:24:26] [Server thread/INFO]: /trigger <objective> [add|set]
+[01:24:26] [Server thread/INFO]: /w -> msg
+[01:24:26] [Server thread/INFO]: /weather (clear|rain|thunder)
+[01:24:26] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[01:24:26] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[01:24:26] [Server thread/INFO]: /xp -> experience
+[01:26:55] [Server thread/INFO]: Incorrect argument for command
+[01:26:55] [Server thread/INFO]: execute @a ~ ~ ~ summon lightning_bolt ~ ~ ~<--[HERE]
+[01:29:36] [Server thread/INFO]: IpTul lost connection: Disconnected
+[01:29:36] [Server thread/INFO]: IpTul left the game
+[01:30:28] [Server thread/INFO]: Incorrect argument for command
+[01:30:28] [Server thread/INFO]: execute @a ~ ~ ~ summon spider ~ ~1 ~ {Passengers:[{id:skeleton,HandItems:[{Count:1,id:bow},{Count:1,id:shield}],ArmorItems:[{Count:1,id:diamond_boots},{Count:1,id:diamond_leggings},{Count:1,id:diamond_chestplate},{Count:1,id:diamond_helmet}],CustomName:Killer,Visible:1,HandDropChances:[1.0f,1.0f],ArmorDropChances:[1.0f,1.0f,1.0f,1.0f],ActiveEffects:[{Id:1,Amplifier:1,Duration:9},{Id:5,Amplifier:1,Duration:9},{Id:8,Amplifier:1,Duration:9},{Id:12,Amplifier:0,Duration:9}]}]}<--[HERE]
