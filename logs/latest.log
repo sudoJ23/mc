@@ -1,634 +1,113 @@
-[00:49:06] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54471] logged in with entity id 32050 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:49:06] [Server thread/INFO]: IpTul joined the game
-[00:49:17] [Server thread/INFO]: IpTul lost connection: Disconnected
-[00:49:17] [Server thread/INFO]: IpTul left the game
-[00:49:21] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54473] logged in with entity id 32084 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:49:21] [Server thread/INFO]: IpTul joined the game
-[00:49:36] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:49:36] [Server thread/INFO]: IpTul left the game
-[00:49:46] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54474] logged in with entity id 32098 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:49:46] [Server thread/INFO]: IpTul joined the game
-[00:50:01] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:50:01] [Server thread/INFO]: IpTul left the game
-[00:50:08] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54475] logged in with entity id 32136 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:50:08] [Server thread/INFO]: IpTul joined the game
-[00:50:23] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:50:23] [Server thread/INFO]: IpTul left the game
-[00:50:23] [Server thread/WARN]: handleDisconnection() called twice
-[00:50:30] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54476] logged in with entity id 32170 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:50:30] [Server thread/INFO]: IpTul joined the game
-[00:50:45] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:50:45] [Server thread/INFO]: IpTul left the game
-[00:50:51] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54477] logged in with entity id 32187 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:50:51] [Server thread/INFO]: IpTul joined the game
-[00:51:06] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:51:06] [Server thread/INFO]: IpTul left the game
-[00:51:14] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54480] logged in with entity id 32221 at (-117.70000002533197, 68.5625, -262.700000025332)
-[00:51:14] [Server thread/INFO]: IpTul joined the game
-[00:59:19] [Server thread/INFO]: <IpTul> a
-[00:59:30] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:59:30] [Server thread/INFO]: IpTul left the game
-[00:59:43] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54489] logged in with entity id 33370 at (-110.58371210735213, 73.0, -196.37600972887205)
-[00:59:43] [Server thread/INFO]: IpTul joined the game
-[00:59:58] [Server thread/INFO]: IpTul lost connection: Timed out
-[00:59:58] [Server thread/INFO]: IpTul left the game
-[01:00:16] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54491] logged in with entity id 33413 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:00:16] [Server thread/INFO]: IpTul joined the game
-[01:00:31] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:00:31] [Server thread/INFO]: IpTul left the game
-[01:00:41] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54492] logged in with entity id 33449 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:00:41] [Server thread/INFO]: IpTul joined the game
-[01:00:56] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:00:56] [Server thread/INFO]: IpTul left the game
-[01:01:14] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54493] logged in with entity id 33484 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:01:14] [Server thread/INFO]: IpTul joined the game
-[01:01:29] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:01:29] [Server thread/INFO]: IpTul left the game
-[01:01:29] [Server thread/WARN]: handleDisconnection() called twice
-[01:01:47] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54506] logged in with entity id 33519 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:01:47] [Server thread/INFO]: IpTul joined the game
-[01:02:02] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:02:02] [Server thread/INFO]: IpTul left the game
-[01:02:07] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54507] logged in with entity id 33557 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:02:07] [Server thread/INFO]: IpTul joined the game
-[01:02:22] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:02:22] [Server thread/INFO]: IpTul left the game
-[01:02:22] [Server thread/WARN]: handleDisconnection() called twice
-[01:02:50] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54523] logged in with entity id 33589 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:02:50] [Server thread/INFO]: IpTul joined the game
-[01:03:06] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:03:06] [Server thread/INFO]: IpTul left the game
-[01:03:23] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54636] logged in with entity id 33614 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:03:23] [Server thread/INFO]: IpTul joined the game
-[01:03:38] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:03:38] [Server thread/INFO]: IpTul left the game
-[01:03:59] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54748] logged in with entity id 33656 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:03:59] [Server thread/INFO]: IpTul joined the game
-[01:04:14] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:04:14] [Server thread/INFO]: IpTul left the game
-[01:04:57] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54751] logged in with entity id 33693 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:04:57] [Server thread/INFO]: IpTul joined the game
-[01:05:12] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:05:12] [Server thread/INFO]: IpTul left the game
-[01:05:28] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54752] logged in with entity id 33741 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:05:28] [Server thread/INFO]: IpTul joined the game
-[01:05:43] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:05:43] [Server thread/INFO]: IpTul left the game
-[01:05:58] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54755] logged in with entity id 33763 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:05:58] [Server thread/INFO]: IpTul joined the game
-[01:06:13] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:06:13] [Server thread/INFO]: IpTul left the game
-[01:08:08] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54763] logged in with entity id 33805 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:08:08] [Server thread/INFO]: IpTul joined the game
-[01:08:24] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:08:24] [Server thread/INFO]: IpTul left the game
-[01:09:07] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:54772] logged in with entity id 33828 at (-85.5, 74.0, -242.5)
-[01:09:07] [Server thread/INFO]: agilaja joined the game
-[01:09:22] [Server thread/INFO]: agilaja lost connection: Timed out
-[01:09:22] [Server thread/INFO]: agilaja left the game
-[01:09:27] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54773] logged in with entity id 33893 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:09:27] [Server thread/INFO]: IpTul joined the game
-[01:09:31] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:54775] logged in with entity id 33922 at (-85.5, 74.0, -242.5)
-[01:09:31] [Server thread/INFO]: agilaja joined the game
-[01:09:36] [Server thread/INFO]: agilaja lost connection: Disconnected
-[01:09:36] [Server thread/INFO]: agilaja left the game
-[01:09:39] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:54777] logged in with entity id 33960 at (-85.5, 74.0, -242.5)
-[01:09:39] [Server thread/INFO]: agilaja joined the game
-[01:09:43] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:09:43] [Server thread/INFO]: IpTul left the game
-[01:09:59] [Server thread/INFO]: Set the time to 1000
-[01:11:07] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54787] logged in with entity id 34178 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:11:07] [Server thread/INFO]: IpTul joined the game
-[01:11:22] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:11:22] [Server thread/INFO]: IpTul left the game
-[01:13:15] [Server thread/INFO]: agilaja has made the advancement [Stone Age]
-[01:13:32] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54815] logged in with entity id 34507 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:13:32] [Server thread/INFO]: IpTul joined the game
-[01:13:47] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:13:47] [Server thread/INFO]: IpTul left the game
-[01:16:09] [Server thread/INFO]: agilaja lost connection: Timed out
-[01:16:09] [Server thread/INFO]: agilaja left the game
-[01:16:16] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:54835] logged in with entity id 34774 at (-116.66092928059203, 68.0, -259.2831582039303)
-[01:16:16] [Server thread/INFO]: agilaja joined the game
-[01:16:31] [Server thread/INFO]: agilaja lost connection: Timed out
-[01:16:31] [Server thread/INFO]: agilaja left the game
-[01:16:36] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:54839] logged in with entity id 34807 at (-116.66092928059203, 68.0, -259.2831582039303)
-[01:16:36] [Server thread/INFO]: agilaja joined the game
-[01:16:50] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54844] logged in with entity id 34825 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:16:50] [Server thread/INFO]: IpTul joined the game
-[01:16:51] [Server thread/INFO]: agilaja lost connection: Timed out
-[01:16:51] [Server thread/INFO]: agilaja left the game
-[01:16:51] [Server thread/WARN]: handleDisconnection() called twice
-[01:17:01] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:54845] logged in with entity id 34894 at (-116.66092928059203, 68.0, -259.2831582039303)
-[01:17:01] [Server thread/INFO]: agilaja joined the game
-[01:17:06] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:17:06] [Server thread/INFO]: IpTul left the game
-[01:17:16] [Server thread/INFO]: agilaja lost connection: Timed out
-[01:17:16] [Server thread/INFO]: agilaja left the game
-[01:19:53] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54855] logged in with entity id 34956 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:19:53] [Server thread/INFO]: IpTul joined the game
-[01:20:08] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:20:08] [Server thread/INFO]: IpTul left the game
-[01:22:48] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54974] logged in with entity id 34998 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:22:48] [Server thread/INFO]: IpTul joined the game
-[01:23:03] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:23:03] [Server thread/INFO]: IpTul left the game
-[01:25:41] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:54987] logged in with entity id 35022 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:25:41] [Server thread/INFO]: IpTul joined the game
-[01:25:56] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:25:56] [Server thread/INFO]: IpTul left the game
-[01:27:50] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:55015] logged in with entity id 35051 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:27:50] [Server thread/INFO]: IpTul joined the game
-[01:28:06] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:28:06] [Server thread/INFO]: IpTul left the game
-[01:29:13] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:55023] logged in with entity id 35088 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:29:13] [Server thread/INFO]: IpTul joined the game
-[01:29:29] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:29:29] [Server thread/INFO]: IpTul left the game
-[01:31:58] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:55175] logged in with entity id 35126 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:31:58] [Server thread/INFO]: IpTul joined the game
-[01:32:14] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:32:14] [Server thread/INFO]: IpTul left the game
-[01:32:51] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:55207] logged in with entity id 35150 at (-110.58371210735213, 73.0, -196.37600972887205)
-[01:32:51] [Server thread/INFO]: IpTul joined the game
-[01:33:06] [Server thread/INFO]: IpTul lost connection: Timed out
-[01:33:06] [Server thread/INFO]: IpTul left the game
-[02:20:55] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56246] logged in with entity id 35187 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:20:55] [Server thread/INFO]: IpTul joined the game
-[02:21:10] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:21:10] [Server thread/INFO]: IpTul left the game
-[02:21:31] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56358] logged in with entity id 35239 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:21:31] [Server thread/INFO]: IpTul joined the game
-[02:21:46] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:21:46] [Server thread/INFO]: IpTul left the game
-[02:21:54] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56359] logged in with entity id 35274 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:21:54] [Server thread/INFO]: IpTul joined the game
-[02:22:09] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:22:09] [Server thread/INFO]: IpTul left the game
-[02:22:18] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56360] logged in with entity id 35302 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:22:18] [Server thread/INFO]: IpTul joined the game
-[02:22:33] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:22:33] [Server thread/INFO]: IpTul left the game
-[02:23:26] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56362] logged in with entity id 35346 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:23:26] [Server thread/INFO]: IpTul joined the game
-[02:23:42] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:23:42] [Server thread/INFO]: IpTul left the game
-[02:25:09] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56364] logged in with entity id 35372 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:25:09] [Server thread/INFO]: IpTul joined the game
-[02:25:13] [Server thread/INFO]: IpTul was slain by Zombie
-[02:25:24] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:25:24] [Server thread/INFO]: IpTul left the game
-[02:26:45] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56365] logged in with entity id 35401 at (-110.58371210735213, 73.0, -196.37600972887205)
-[02:26:45] [Server thread/INFO]: IpTul joined the game
-[02:27:00] [Server thread/INFO]: IpTul lost connection: Timed out
-[02:27:00] [Server thread/INFO]: IpTul left the game
-[04:55:12] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:56890] logged in with entity id 35428 at (-110.58371210735213, 73.0, -196.37600972887205)
-[04:55:12] [Server thread/INFO]: IpTul joined the game
-[05:11:43] [Server thread/INFO]: <IpTul> LANCAR
-[05:15:52] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57041] logged in with entity id 38302 at (-116.66092928059203, 68.0, -259.2831582039303)
-[05:15:52] [Server thread/INFO]: agilaja joined the game
-[05:16:07] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:16:07] [Server thread/INFO]: agilaja left the game
-[05:17:39] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57049] logged in with entity id 38531 at (-116.66092928059203, 68.0, -259.2831582039303)
-[05:17:39] [Server thread/INFO]: agilaja joined the game
-[05:19:35] [Server thread/INFO]: agilaja has made the advancement [Getting an Upgrade]
-[05:21:54] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:21:54] [Server thread/INFO]: agilaja left the game
-[05:22:03] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57062] logged in with entity id 39069 at (-63.51618387186869, 83.0, -262.5247360365905)
-[05:22:03] [Server thread/INFO]: agilaja joined the game
-[05:22:18] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:22:18] [Server thread/INFO]: agilaja left the game
-[05:22:26] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57064] logged in with entity id 39146 at (-63.51618387186869, 83.0, -262.5247360365905)
-[05:22:26] [Server thread/INFO]: agilaja joined the game
-[05:22:41] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:22:41] [Server thread/INFO]: agilaja left the game
-[05:22:41] [Server thread/WARN]: handleDisconnection() called twice
-[05:22:55] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57065] logged in with entity id 39235 at (-63.51618387186869, 83.0, -262.5247360365905)
-[05:22:55] [Server thread/INFO]: agilaja joined the game
-[05:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
-[05:27:13] [Server thread/INFO]: agilaja has made the advancement [Monster Hunter]
-[05:29:20] [Server thread/WARN]: IpTul moved too quickly! -6.750309546485056,-6.464159374955443,-3.968486885936869
-[05:29:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
-[05:30:26] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:30:26] [Server thread/INFO]: agilaja left the game
-[05:30:45] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57084] logged in with entity id 41090 at (120.96157410305415, 66.0, -298.69915697776526)
-[05:30:45] [Server thread/INFO]: agilaja joined the game
-[05:30:54] [Server thread/INFO]: agilaja lost connection: Disconnected
-[05:30:54] [Server thread/INFO]: agilaja left the game
-[05:32:08] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57089] logged in with entity id 41288 at (120.96157410305415, 66.0, -298.69915697776526)
-[05:32:08] [Server thread/INFO]: agilaja joined the game
-[05:32:23] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:32:23] [Server thread/INFO]: agilaja left the game
-[05:34:14] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57096] logged in with entity id 41589 at (120.96157410305415, 66.0, -298.69915697776526)
-[05:34:14] [Server thread/INFO]: agilaja joined the game
-[05:34:23] [Server thread/WARN]: IpTul moved too quickly! -6.207562794011949,-0.7967356006687112,-7.982718285416269
-[05:34:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
-[05:34:35] [Server thread/WARN]: agilaja moved wrongly!
-[05:34:39] [Server thread/WARN]: agilaja was kicked for floating too long!
-[05:34:39] [Server thread/INFO]: agilaja lost connection: Flying is not enabled on this server
-[05:34:39] [Server thread/INFO]: agilaja left the game
-[05:34:39] [Server thread/WARN]: handleDisconnection() called twice
-[05:34:46] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57097] logged in with entity id 41772 at (116.07008426179516, 65.6906999805212, -321.51929572780205)
-[05:34:46] [Server thread/INFO]: agilaja joined the game
-[05:34:52] [Server thread/WARN]: agilaja was kicked for floating too long!
-[05:34:52] [Server thread/INFO]: agilaja lost connection: Flying is not enabled on this server
-[05:34:52] [Server thread/INFO]: agilaja left the game
-[05:35:44] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57100] logged in with entity id 41918 at (116.07008426179516, 65.6906999805212, -321.51929572780205)
-[05:35:44] [Server thread/INFO]: agilaja joined the game
-[05:38:05] [Server thread/INFO]: agilaja drowned
-[05:38:14] [Server thread/INFO]: agilaja lost connection: Timed out
-[05:38:14] [Server thread/INFO]: agilaja left the game
-[05:38:35] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57104] logged in with entity id 42632 at (141.65577004611026, 59.69293390620282, -329.7207870464025)
-[05:38:35] [Server thread/INFO]: agilaja joined the game
-[05:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
-[05:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[05:45:32] [Server thread/INFO]: agilaja was blown up by Creeper
-[05:45:35] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at vd.b(SourceFile:208) ~[server.jar:?]
-	at uw.a(SourceFile:897) ~[server.jar:?]
-	at vi.a(SourceFile:475) ~[server.jar:?]
-	at wc.a(SourceFile:835) ~[server.jar:?]
-	at om.a(SourceFile:126) ~[server.jar:?]
-	at om$b.a(SourceFile:18) ~[server.jar:?]
-	at ke.a(SourceFile:21) ~[server.jar:?]
-	at rk.run(SourceFile:18) ~[server.jar:?]
-	at agq.h(SourceFile:144) [server.jar:?]
-	at agu.h(SourceFile:23) [server.jar:?]
-	at agq.q(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
-	at agq.bh(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[05:45:38] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at vd.b(SourceFile:208) ~[server.jar:?]
-	at uw.a(SourceFile:897) ~[server.jar:?]
-	at vi.a(SourceFile:475) ~[server.jar:?]
-	at wc.a(SourceFile:835) ~[server.jar:?]
-	at om.a(SourceFile:126) ~[server.jar:?]
-	at om$a.a(SourceFile:57) ~[server.jar:?]
-	at ke.a(SourceFile:21) ~[server.jar:?]
-	at rk.run(SourceFile:18) ~[server.jar:?]
-	at agq.h(SourceFile:144) [server.jar:?]
-	at agu.h(SourceFile:23) [server.jar:?]
-	at agq.q(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
-	at agq.bh(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[05:47:23] [Server thread/INFO]: <IpTul> a
-[05:47:30] [Server thread/INFO]: agilaja was blown up by Creeper
-[05:47:31] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at vd.b(SourceFile:208) ~[server.jar:?]
-	at uw.a(SourceFile:897) ~[server.jar:?]
-	at vi.a(SourceFile:475) ~[server.jar:?]
-	at wc.a(SourceFile:835) ~[server.jar:?]
-	at om.a(SourceFile:126) ~[server.jar:?]
-	at om$a.a(SourceFile:57) ~[server.jar:?]
-	at ke.a(SourceFile:21) ~[server.jar:?]
-	at rk.run(SourceFile:18) ~[server.jar:?]
-	at agq.h(SourceFile:144) [server.jar:?]
-	at agu.h(SourceFile:23) [server.jar:?]
-	at agq.q(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
-	at agq.bh(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[05:47:59] [Server thread/INFO]: agilaja has made the advancement [Sweet Dreams]
-[05:49:15] [Server thread/INFO]: <IpTul> a
-[05:49:51] [Server thread/INFO]: <IpTul> a
-[05:56:02] [Server thread/INFO]: IpTul lost connection: Timed out
-[05:56:02] [Server thread/INFO]: IpTul left the game
-[05:56:52] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57351] logged in with entity id 46392 at (-144.98541476458524, 69.0, -229.3628109625214)
-[05:56:52] [Server thread/INFO]: IpTul joined the game
-[05:57:07] [Server thread/INFO]: IpTul lost connection: Disconnected
-[05:57:07] [Server thread/INFO]: IpTul left the game
-[05:57:07] [Server thread/WARN]: handleDisconnection() called twice
-[05:57:26] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57463] logged in with entity id 46491 at (-144.98541476458524, 69.0, -229.3628109625214)
-[05:57:26] [Server thread/INFO]: IpTul joined the game
-[05:57:41] [Server thread/INFO]: IpTul lost connection: Timed out
-[05:57:41] [Server thread/INFO]: IpTul left the game
-[05:57:59] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57464] logged in with entity id 46543 at (-144.98541476458524, 69.0, -229.3628109625214)
-[05:57:59] [Server thread/INFO]: IpTul joined the game
-[05:58:14] [Server thread/INFO]: IpTul lost connection: Timed out
-[05:58:14] [Server thread/INFO]: IpTul left the game
-[05:58:19] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57465] logged in with entity id 46611 at (-144.98541476458524, 69.0, -229.3628109625214)
-[05:58:19] [Server thread/INFO]: IpTul joined the game
-[06:01:07] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:01:07] [Server thread/INFO]: agilaja left the game
-[06:01:13] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57468] logged in with entity id 47044 at (-114.72411193036525, 74.0, -216.86586031095584)
-[06:01:13] [Server thread/INFO]: agilaja joined the game
-[06:01:29] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:01:29] [Server thread/INFO]: agilaja left the game
-[06:02:07] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57470] logged in with entity id 47163 at (-114.72411193036525, 74.0, -216.86586031095584)
-[06:02:07] [Server thread/INFO]: agilaja joined the game
-[06:04:22] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:04:22] [Server thread/INFO]: agilaja left the game
-[06:04:22] [Server thread/WARN]: handleDisconnection() called twice
-[06:04:28] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57473] logged in with entity id 47635 at (-113.62874279299697, 74.0, -227.9414732014064)
-[06:04:28] [Server thread/INFO]: agilaja joined the game
-[06:04:44] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:04:44] [Server thread/INFO]: agilaja left the game
-[06:05:15] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57476] logged in with entity id 47763 at (-113.62874279299697, 74.0, -227.9414732014064)
-[06:05:15] [Server thread/INFO]: agilaja joined the game
-[06:10:18] [Server thread/WARN]: IpTul moved too quickly! 9.879973633018466,1.1767592750642422,-1.7101332875858475
-[06:34:17] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:34:17] [Server thread/INFO]: agilaja left the game
-[06:34:26] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57559] logged in with entity id 52440 at (-72.36051036392224, 64.0, -121.2696518196148)
-[06:34:26] [Server thread/INFO]: agilaja joined the game
-[06:34:42] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:34:42] [Server thread/INFO]: agilaja left the game
-[06:34:57] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57561] logged in with entity id 52531 at (-72.36051036392224, 64.0, -121.2696518196148)
-[06:34:57] [Server thread/INFO]: agilaja joined the game
-[06:35:57] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:35:57] [Server thread/INFO]: agilaja left the game
-[06:36:09] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57565] logged in with entity id 52756 at (-114.70000002533197, 74.1, -221.70000002533197)
-[06:36:09] [Server thread/INFO]: agilaja joined the game
-[06:36:24] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:36:24] [Server thread/INFO]: agilaja left the game
-[06:37:13] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57569] logged in with entity id 52892 at (-114.70000002533197, 74.1, -221.70000002533197)
-[06:37:13] [Server thread/INFO]: agilaja joined the game
-[06:37:28] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:37:28] [Server thread/INFO]: agilaja left the game
-[06:38:02] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57571] logged in with entity id 53024 at (-114.70000002533197, 74.1, -221.70000002533197)
-[06:38:02] [Server thread/INFO]: agilaja joined the game
-[06:38:17] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:38:17] [Server thread/INFO]: agilaja left the game
-[06:38:40] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57572] logged in with entity id 53095 at (-114.70000002533197, 74.1, -221.70000002533197)
-[06:38:40] [Server thread/INFO]: agilaja joined the game
-[06:38:55] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:38:55] [Server thread/INFO]: agilaja left the game
-[06:42:51] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57585] logged in with entity id 53762 at (-114.70000002533197, 73.5625, -221.70000002533197)
-[06:42:51] [Server thread/INFO]: agilaja joined the game
-[06:44:22] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:44:22] [Server thread/INFO]: agilaja left the game
-[06:44:30] [Server thread/WARN]: IpTul moved too quickly! -3.070582912672677,-2.252203340253729,9.3154521887096
-[06:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
-[06:44:41] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57589] logged in with entity id 54350 at (-111.56270309212276, 68.0, -252.2851003984373)
-[06:44:41] [Server thread/INFO]: agilaja joined the game
-[06:44:56] [Server thread/INFO]: agilaja lost connection: Timed out
-[06:44:56] [Server thread/INFO]: agilaja left the game
-[06:49:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
-[06:52:31] [Server thread/WARN]: IpTul moved too quickly! 10.961755285552954,0.4000000000000057,2.7480106415848127
-[06:52:38] [Server thread/INFO]: <IpTul> a
-[06:52:45] [Server thread/WARN]: IpTul moved too quickly! 9.500325626665813,0.0,3.527828111829308
-[06:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4469ms or 89 ticks behind
-[06:59:11] [Server thread/WARN]: IpTul moved too quickly! 4.705471557266492,-3.4633258477891573,8.756367155852104
-[06:59:14] [Server thread/WARN]: IpTul moved too quickly! 10.28645302138034,-0.09776231847800432,0.38916216619315946
-[06:59:16] [Server thread/WARN]: IpTul moved too quickly! 10.418706389322324,-0.4242578578432301,0.6632440617213575
-[06:59:20] [Server thread/WARN]: IpTul moved too quickly! 9.55560412117768,-1.3341152200505988,3.7025300218314356
-[06:59:27] [Server thread/WARN]: IpTul moved too quickly! 6.364623363139685,-0.6060886519399915,8.159169158346614
-[06:59:30] [Server thread/WARN]: IpTul moved too quickly! 10.086711940458486,0.31653529455829954,0.9077821464085929
-[06:59:35] [Server thread/WARN]: IpTul moved too quickly! 9.97073172656144,-0.3028147612465091,-2.675909964021969
-[06:59:40] [Server thread/WARN]: IpTul moved too quickly! 9.876768057952859,-1.138045790541625,1.3364763063665208
-[06:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
-[07:00:50] [Server thread/WARN]: IpTul moved too quickly! 6.753277238932242,0.21325974548368265,-7.5341263924958
-[07:00:53] [Server thread/WARN]: IpTul moved too quickly! 8.264874380263109,-1.1392694700161172,-6.190042659760479
-[07:01:02] [Server thread/WARN]: IpTul moved too quickly! 10.189071473625972,-0.5509655348533258,-2.6391450154059157
-[07:01:07] [Server thread/WARN]: IpTul moved too quickly! 6.81705510962729,0.44587044927641983,7.995530537553478
-[07:01:45] [Server thread/WARN]: IpTul moved too quickly! 10.057084208183596,0.6715421585652308,0.7433269516196788
-[07:03:34] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57705] logged in with entity id 59222 at (-111.56270309212276, 68.0, -252.2851003984373)
-[07:03:34] [Server thread/INFO]: agilaja joined the game
-[07:03:59] [Server thread/WARN]: IpTul moved too quickly! 10.06579792822049,0.713600006103519,0.1897082534946435
-[07:04:07] [Server thread/WARN]: IpTul moved too quickly! 10.403025469385284,-0.7999999523162842,2.031105122446668
-[07:04:22] [Server thread/WARN]: IpTul moved wrongly!
-[07:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[07:04:49] [Server thread/WARN]: IpTul moved too quickly! 6.565460616690871,-0.07220002362731748,7.567606955362699
-[07:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7074ms or 141 ticks behind
-[07:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[07:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[07:06:08] [Server thread/WARN]: IpTul moved wrongly!
-[07:07:23] [Server thread/INFO]: IpTul drowned
-[07:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
-[07:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
-[07:18:21] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:18:21] [Server thread/INFO]: agilaja left the game
-[07:18:31] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57744] logged in with entity id 62632 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:18:31] [Server thread/INFO]: agilaja joined the game
-[07:18:46] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:18:46] [Server thread/INFO]: agilaja left the game
-[07:19:19] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57747] logged in with entity id 62793 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:19:19] [Server thread/INFO]: agilaja joined the game
-[07:19:34] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:19:34] [Server thread/INFO]: agilaja left the game
-[07:20:21] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57750] logged in with entity id 63028 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:20:21] [Server thread/INFO]: agilaja joined the game
-[07:20:36] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:20:36] [Server thread/INFO]: agilaja left the game
-[07:22:21] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57759] logged in with entity id 63557 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:22:21] [Server thread/INFO]: agilaja joined the game
-[07:22:36] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:22:36] [Server thread/INFO]: agilaja left the game
-[07:23:24] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57761] logged in with entity id 63860 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:23:24] [Server thread/INFO]: agilaja joined the game
-[07:23:39] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:23:39] [Server thread/INFO]: agilaja left the game
-[07:25:40] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57773] logged in with entity id 64338 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:25:40] [Server thread/INFO]: agilaja joined the game
-[07:25:55] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:25:55] [Server thread/INFO]: agilaja left the game
-[07:26:41] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57778] logged in with entity id 64544 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:26:41] [Server thread/INFO]: agilaja joined the game
-[07:26:56] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:26:56] [Server thread/INFO]: agilaja left the game
-[07:27:34] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57787] logged in with entity id 64816 at (48.58056590752574, 64.0, -232.09629856773836)
-[07:27:34] [Server thread/INFO]: agilaja joined the game
-[07:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
-[07:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
-[07:38:05] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:38:05] [Server thread/INFO]: agilaja left the game
-[07:38:15] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57827] logged in with entity id 66517 at (45.6867019844902, 70.0, -235.78588897048448)
-[07:38:15] [Server thread/INFO]: agilaja joined the game
-[07:38:18] [Server thread/INFO]: IpTul lost connection: Timed out
-[07:38:18] [Server thread/INFO]: IpTul left the game
-[07:38:22] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57828] logged in with entity id 66586 at (122.27088022171384, 70.0, -179.44155534007965)
-[07:38:22] [Server thread/INFO]: IpTul joined the game
-[07:38:30] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:38:30] [Server thread/INFO]: agilaja left the game
-[07:38:37] [Server thread/INFO]: IpTul lost connection: Timed out
-[07:38:37] [Server thread/INFO]: IpTul left the game
-[07:38:41] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57829] logged in with entity id 66648 at (45.6867019844902, 70.0, -235.78588897048448)
-[07:38:41] [Server thread/INFO]: agilaja joined the game
-[07:38:44] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57830] logged in with entity id 66663 at (122.27088022171384, 70.0, -179.44155534007965)
-[07:38:44] [Server thread/INFO]: IpTul joined the game
-[07:38:56] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:38:56] [Server thread/INFO]: agilaja left the game
-[07:38:59] [Server thread/INFO]: IpTul lost connection: Timed out
-[07:38:59] [Server thread/INFO]: IpTul left the game
-[07:39:05] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57836] logged in with entity id 66756 at (122.27088022171384, 70.0, -179.44155534007965)
-[07:39:05] [Server thread/INFO]: IpTul joined the game
-[07:39:45] [Server thread/INFO]: agilaja[/0:0:0:0:0:0:0:1:57838] logged in with entity id 66863 at (45.6867019844902, 70.0, -235.78588897048448)
-[07:39:45] [Server thread/INFO]: agilaja joined the game
-[07:53:28] [Server thread/INFO]: agilaja has made the advancement [Acquire Hardware]
-[07:54:33] [Server thread/INFO]: agilaja has made the advancement [Isn't It Iron Pick]
-[07:56:01] [Server thread/INFO]: agilaja lost connection: Timed out
-[07:56:01] [Server thread/INFO]: agilaja left the game
-[07:56:01] [Server thread/WARN]: handleDisconnection() called twice
-[07:56:21] [Server thread/INFO]: IpTul lost connection: Timed out
-[07:56:21] [Server thread/INFO]: IpTul left the game
-[07:56:29] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:57912] logged in with entity id 69955 at (113.29999997466803, 70.0000002, -193.70000002533197)
-[07:56:29] [Server thread/INFO]: IpTul joined the game
-[08:50:14] [Server thread/INFO]: Hampone[/0:0:0:0:0:0:0:1:57981] logged in with entity id 76834 at (-96.5, 66.0, -229.5)
-[08:50:14] [Server thread/INFO]: Hampone joined the game
-[08:51:15] [Server thread/INFO]: <Hampone> a
-[08:51:42] [Server thread/INFO]: Hampone has made the advancement [A Seedy Place]
-[08:52:08] [Server thread/INFO]: <IpTul> 123.110 70.00000 -190.801
-[08:52:53] [Server thread/INFO]: <Hampone> ape
-[08:53:01] [Server thread/INFO]: <IpTul> kesitu
-[08:53:06] [Server thread/INFO]: <IpTul> jgn disana
-[08:53:07] [Server thread/INFO]: <IpTul> pndh
-[08:54:57] [Server thread/INFO]: <Hampone> kaga
-[08:55:01] [Server thread/INFO]: <Hampone> we mo jauh jauh
-[08:55:05] [Server thread/INFO]: <Hampone> kasih furniture atuh
-[08:55:07] [Server thread/INFO]: <Hampone> buat rumah
-[08:55:07] [Server thread/INFO]: <IpTul> sni aj ajg
-[08:55:14] [Server thread/INFO]: <Hampone> kaga
-[08:55:20] [Server thread/INFO]: <IpTul> kick
-[08:55:23] [Server thread/INFO]: <Hampone> maling
-[08:55:26] [Server thread/INFO]: <Hampone> wwwww
-[08:55:42] [Server thread/INFO]: <Hampone> mo 10k
-[08:55:45] [Server thread/INFO]: <Hampone> dari spawn
-[08:55:59] [Server thread/INFO]: <IpTul> ya serah lu lah
-[08:56:02] [Server thread/INFO]: <Hampone> wwww
-[08:56:09] [Server thread/INFO]: <Hampone> ni vanilla biasa?
-[08:56:15] [Server thread/WARN]: Hampone moved too quickly! -0.8637525893624343,2.0,9.846739832798079
-[08:56:18] [Server thread/WARN]: Hampone moved wrongly!
-[08:56:23] [Server thread/INFO]: <Hampone> ngeleg euy
-[08:56:37] [Server thread/INFO]: Hampone was blown up by Creeper
-[08:56:39] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: null
-	at vd.b(SourceFile:208) ~[server.jar:?]
-	at uw.a(SourceFile:897) ~[server.jar:?]
-	at vi.a(SourceFile:475) ~[server.jar:?]
-	at wc.a(SourceFile:835) ~[server.jar:?]
-	at om.a(SourceFile:126) ~[server.jar:?]
-	at om$a.a(SourceFile:57) ~[server.jar:?]
-	at ke.a(SourceFile:21) ~[server.jar:?]
-	at rk.run(SourceFile:18) ~[server.jar:?]
-	at agq.h(SourceFile:144) [server.jar:?]
-	at agu.h(SourceFile:23) [server.jar:?]
-	at agq.q(SourceFile:118) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.aX(SourceFile:712) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.q(SourceFile:706) [server.jar:?]
-	at agq.bh(SourceFile:103) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.p(SourceFile:690) [server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:646) [server.jar:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[08:56:39] [Server thread/WARN]: Hampone moved wrongly!
-[08:56:45] [Server thread/INFO]: <IpTul> mampus
-[08:56:58] [Server thread/INFO]: <Hampone> sengaja
-[08:56:59] [Server thread/INFO]: <Hampone> food abis
-[08:58:09] [Server thread/INFO]: <IpTul> tidor cuk
-[08:59:34] [Server thread/INFO]: <Hampone> kaga ada bed
-[09:00:06] [Server thread/WARN]: IpTul moved too quickly! 5.706858357941854,0.0,-8.546808413631055
-[09:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
-[09:00:37] [Server thread/INFO]: Hampone was slain by Zombie
-[09:03:03] [Server thread/INFO]: <Hampone> .
-[09:03:07] [Server thread/INFO]: <IpTul> ha
-[09:03:18] [Server thread/INFO]: <Hampone> kaga bisa tidur euy
-[09:03:23] [Server thread/INFO]: <IpTul> udh mo pagi
-[09:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
-[09:06:45] [Server thread/INFO]: Hampone lost connection: Disconnected
-[09:06:45] [Server thread/INFO]: Hampone left the game
-[09:15:39] [Server thread/WARN]: IpTul moved wrongly!
-[09:18:36] [Server thread/INFO]: Hampone[/0:0:0:0:0:0:0:1:58004] logged in with entity id 82613 at (-104.72119434750687, 68.0, -251.9761623008645)
-[09:18:36] [Server thread/INFO]: Hampone joined the game
-[09:18:49] [Server thread/INFO]: Hampone lost connection: Disconnected
-[09:18:49] [Server thread/INFO]: Hampone left the game
-[09:18:52] [Server thread/INFO]: Hampone[/0:0:0:0:0:0:0:1:58007] logged in with entity id 82752 at (-104.72119434750687, 68.0, -251.9761623008645)
-[09:18:52] [Server thread/INFO]: Hampone joined the game
-[09:25:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
-[09:28:20] [Server thread/INFO]: Hampone lost connection: Disconnected
-[09:28:20] [Server thread/INFO]: Hampone left the game
-[10:03:46] [Server thread/INFO]: IpTul lost connection: Disconnected
-[10:03:46] [Server thread/INFO]: IpTul left the game
-[10:25:38] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58061] logged in with entity id 91004 at (115.55261476726533, 70.0, -192.28063750528108)
-[10:25:38] [Server thread/INFO]: IpTul joined the game
-[10:30:19] [Server thread/INFO]: IpTul fell from a high place
-[10:30:38] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:30:38] [Server thread/INFO]: IpTul left the game
-[10:30:43] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58070] logged in with entity id 91699 at (-99.5, 69.0, -239.5)
-[10:30:43] [Server thread/INFO]: IpTul joined the game
-[10:30:58] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:30:58] [Server thread/INFO]: IpTul left the game
-[10:31:05] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58072] logged in with entity id 91716 at (-99.5, 69.0, -239.5)
-[10:31:05] [Server thread/INFO]: IpTul joined the game
-[10:31:20] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:31:20] [Server thread/INFO]: IpTul left the game
-[10:31:25] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58073] logged in with entity id 91750 at (-99.5, 69.0, -239.5)
-[10:31:25] [Server thread/INFO]: IpTul joined the game
-[10:31:40] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:31:40] [Server thread/INFO]: IpTul left the game
-[10:31:44] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58074] logged in with entity id 91781 at (-99.5, 69.0, -239.5)
-[10:31:44] [Server thread/INFO]: IpTul joined the game
-[10:31:59] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:31:59] [Server thread/INFO]: IpTul left the game
-[10:32:05] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58075] logged in with entity id 91803 at (-99.5, 69.0, -239.5)
-[10:32:05] [Server thread/INFO]: IpTul joined the game
-[10:32:20] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:32:20] [Server thread/INFO]: IpTul left the game
-[10:32:25] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58077] logged in with entity id 91839 at (-99.5, 69.0, -239.5)
-[10:32:25] [Server thread/INFO]: IpTul joined the game
-[10:32:40] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:32:40] [Server thread/INFO]: IpTul left the game
-[10:32:46] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58078] logged in with entity id 91863 at (-99.5, 69.0, -239.5)
-[10:32:46] [Server thread/INFO]: IpTul joined the game
-[10:33:01] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:33:01] [Server thread/INFO]: IpTul left the game
-[10:33:25] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58079] logged in with entity id 91883 at (-99.5, 69.0, -239.5)
-[10:33:25] [Server thread/INFO]: IpTul joined the game
-[10:33:40] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:33:40] [Server thread/INFO]: IpTul left the game
-[10:33:45] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58080] logged in with entity id 91922 at (-99.5, 69.0, -239.5)
-[10:33:45] [Server thread/INFO]: IpTul joined the game
-[10:34:00] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:34:00] [Server thread/INFO]: IpTul left the game
-[10:34:06] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58081] logged in with entity id 91945 at (-99.5, 69.0, -239.5)
-[10:34:06] [Server thread/INFO]: IpTul joined the game
-[10:34:22] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:34:22] [Server thread/INFO]: IpTul left the game
-[10:34:35] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58082] logged in with entity id 91970 at (-99.5, 69.0, -239.5)
-[10:34:35] [Server thread/INFO]: IpTul joined the game
-[10:34:51] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:34:51] [Server thread/INFO]: IpTul left the game
-[10:35:02] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58085] logged in with entity id 91995 at (-99.5, 69.0, -239.5)
-[10:35:02] [Server thread/INFO]: IpTul joined the game
-[10:35:17] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:35:17] [Server thread/INFO]: IpTul left the game
-[10:35:22] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58086] logged in with entity id 92035 at (-99.5, 69.0, -239.5)
-[10:35:22] [Server thread/INFO]: IpTul joined the game
-[10:35:37] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:35:37] [Server thread/INFO]: IpTul left the game
-[10:35:42] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58090] logged in with entity id 92052 at (-99.5, 69.0, -239.5)
-[10:35:42] [Server thread/INFO]: IpTul joined the game
-[10:35:57] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:35:57] [Server thread/INFO]: IpTul left the game
-[10:36:01] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58091] logged in with entity id 92077 at (-99.5, 69.0, -239.5)
-[10:36:01] [Server thread/INFO]: IpTul joined the game
-[10:36:16] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:36:16] [Server thread/INFO]: IpTul left the game
-[10:39:04] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:58096] logged in with entity id 92103 at (-99.5, 69.0, -239.5)
-[10:39:04] [Server thread/INFO]: IpTul joined the game
-[10:39:19] [Server thread/INFO]: IpTul lost connection: Timed out
-[10:39:19] [Server thread/INFO]: IpTul left the game
-[13:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
-[13:55:12] [Server thread/INFO]: Stopping server
-[13:55:12] [Server thread/INFO]: Saving players
-[13:55:12] [Server thread/INFO]: Saving worlds
-[13:55:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[13:55:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:55:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[13:55:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:55:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[13:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:55:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:08:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:08:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:08:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:08:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:08:08] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[01:08:08] [Server thread/INFO]: Loading properties
+[01:08:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:08:08] [Server thread/INFO]: Generating keypair
+[01:08:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:08:08] [Server thread/INFO]: Using default channel type
+[01:08:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:08:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:08:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:08:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:08:09] [Server thread/INFO]: Preparing level "world"
+[01:08:09] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:08:11] [Server thread/INFO]: Loaded 6 recipes
+[01:08:12] [Server thread/INFO]: Loaded 811 advancements
+[01:08:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:08:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:39] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[01:08:40] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:40] [Server thread/INFO]: Time elapsed: 3673 ms
+[01:08:40] [Server thread/INFO]: Done (31.426s)! For help, type "help"
+[01:10:38] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:64602] logged in with entity id 220 at (-99.5, 69.0, -239.5)
+[01:10:38] [Server thread/INFO]: IpTul joined the game
+[01:11:56] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 8015ec48-2e7b-44be-bcda-84b9b609200e
+[01:11:56] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID ffe32f73-d31b-4136-a3bf-39f7deda324e
+[01:11:56] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 1afc139f-aa79-45e2-9a76-17aae7326c3c
+[01:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3201ms or 64 ticks behind
+[01:15:51] [Server thread/INFO]: Unknown command
+[01:15:51] [Server thread/INFO]: tps<--[HERE]
+[01:15:54] [Server thread/INFO]: /advancement (grant|revoke)
+[01:15:54] [Server thread/INFO]: /ban <targets> [<reason>]
+[01:15:54] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[01:15:54] [Server thread/INFO]: /banlist [ips|players]
+[01:15:54] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[01:15:54] [Server thread/INFO]: /clear [<targets>]
+[01:15:54] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[01:15:54] [Server thread/INFO]: /data (get|merge|modify|remove)
+[01:15:54] [Server thread/INFO]: /datapack (disable|enable|list)
+[01:15:54] [Server thread/INFO]: /debug (report|start|stop)
+[01:15:54] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[01:15:54] [Server thread/INFO]: /deop <targets>
+[01:15:54] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[01:15:54] [Server thread/INFO]: /effect (clear|give)
+[01:15:54] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[01:15:54] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[01:15:54] [Server thread/INFO]: /experience (add|query|set)
+[01:15:54] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[01:15:54] [Server thread/INFO]: /forceload (add|query|remove)
+[01:15:54] [Server thread/INFO]: /function <name>
+[01:15:54] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[01:15:54] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doLimitedCrafting|doMobLoot|doMobSpawning|doTileDrops|doWeatherCycle|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[01:15:54] [Server thread/INFO]: /give <targets> <item> [<count>]
+[01:15:54] [Server thread/INFO]: /help [<command>]
+[01:15:54] [Server thread/INFO]: /kick <targets> [<reason>]
+[01:15:54] [Server thread/INFO]: /kill <targets>
+[01:15:54] [Server thread/INFO]: /list [uuids]
+[01:15:54] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[01:15:54] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[01:15:54] [Server thread/INFO]: /me <action>
+[01:15:54] [Server thread/INFO]: /msg <targets> <message>
+[01:15:54] [Server thread/INFO]: /op <targets>
+[01:15:54] [Server thread/INFO]: /pardon <targets>
+[01:15:54] [Server thread/INFO]: /pardon-ip <target>
+[01:15:54] [Server thread/INFO]: /particle <name> [<pos>]
+[01:15:54] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[01:15:54] [Server thread/INFO]: /recipe (give|take)
+[01:15:54] [Server thread/INFO]: /reload
+[01:15:54] [Server thread/INFO]: /replaceitem (block|entity)
+[01:15:54] [Server thread/INFO]: /save-all [flush]
+[01:15:54] [Server thread/INFO]: /save-off
+[01:15:54] [Server thread/INFO]: /save-on
+[01:15:54] [Server thread/INFO]: /say <message>
+[01:15:54] [Server thread/INFO]: /schedule function <function> <time>
+[01:15:54] [Server thread/INFO]: /scoreboard (objectives|players)
+[01:15:54] [Server thread/INFO]: /seed
+[01:15:54] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[01:15:54] [Server thread/INFO]: /setidletimeout <minutes>
+[01:15:54] [Server thread/INFO]: /setworldspawn [<pos>]
+[01:15:54] [Server thread/INFO]: /spawnpoint [<targets>]
+[01:15:54] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[01:15:54] [Server thread/INFO]: /stop
+[01:15:54] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[01:15:54] [Server thread/INFO]: /summon <entity> [<pos>]
+[01:15:54] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[01:15:54] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[01:15:54] [Server thread/INFO]: /teammsg <message>
+[01:15:54] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[01:15:54] [Server thread/INFO]: /tell -> msg
+[01:15:54] [Server thread/INFO]: /tellraw <targets> <message>
+[01:15:54] [Server thread/INFO]: /time (add|query|set)
+[01:15:54] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[01:15:54] [Server thread/INFO]: /tm -> teammsg
+[01:15:54] [Server thread/INFO]: /tp -> teleport
+[01:15:54] [Server thread/INFO]: /trigger <objective> [add|set]
+[01:15:54] [Server thread/INFO]: /w -> msg
+[01:15:54] [Server thread/INFO]: /weather (clear|rain|thunder)
+[01:15:54] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[01:15:54] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[01:15:54] [Server thread/INFO]: /xp -> experience
+[01:16:30] [Server thread/INFO]: The nearest Ocean_Ruin is at [-480, ~, -400] (416 blocks away)
+[01:16:43] [Server thread/INFO]: [Server] The nearest Ocean_Ruin is at [-480, ~, -400] (416 blocks away)
+[01:16:53] [Server thread/INFO]: <IpTul> apa itu
+[01:17:00] [Server thread/INFO]: [Server] water temple
+[01:17:09] [Server thread/INFO]: <IpTul> kok km dpt
+[01:17:23] [Server thread/INFO]: [Server] kan di server bisa nyari yg gituan :v
+[01:17:32] [Server thread/INFO]: <IpTul> ih bru tau aku
