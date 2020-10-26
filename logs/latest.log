@@ -16,3 +16,21 @@
 [05:56:50] [Server thread/INFO]: IpTul joined the game
 [05:56:58] [Server thread/INFO]: IpTul was slain by Spider
 [06:03:42] [Server thread/INFO]: IpTul has made the advancement [Fishy Business]
+[06:28:00] [Server thread/INFO]: <IpTul> a
+[06:28:07] [Server thread/INFO]: IpTul lost connection: Timed out
+[06:28:07] [Server thread/INFO]: IpTul left the game
+[06:28:07] [Server thread/WARN]: handleDisconnection() called twice
+[06:28:11] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53475] logged in with entity id 15928 at (78.56679280659644, 63.0, -204.64915916501045)
+[06:28:11] [Server thread/INFO]: IpTul joined the game
+[06:28:26] [Server thread/INFO]: IpTul lost connection: Timed out
+[06:28:26] [Server thread/INFO]: IpTul left the game
+[06:30:26] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53478] logged in with entity id 15962 at (78.56679280659644, 63.0, -204.64915916501045)
+[06:30:26] [Server thread/INFO]: IpTul joined the game
+[06:30:41] [Server thread/INFO]: IpTul lost connection: Timed out
+[06:30:41] [Server thread/INFO]: IpTul left the game
+[06:32:33] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53479] logged in with entity id 15984 at (78.56679280659644, 63.0, -204.64915916501045)
+[06:32:33] [Server thread/INFO]: IpTul joined the game
+[06:32:48] [Server thread/INFO]: IpTul lost connection: Timed out
+[06:32:48] [Server thread/INFO]: IpTul left the game
+[06:32:54] [Server thread/INFO]: IpTul[/0:0:0:0:0:0:0:1:53480] logged in with entity id 16015 at (78.56679280659644, 63.0, -204.64915916501045)
+[06:32:54] [Server thread/INFO]: IpTul joined the game
